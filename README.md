@@ -1,7 +1,14 @@
 # Python Programs for Practice
 
-## Prof. Jayakuamr Sadhasivam
+ <br /> <br />
+## _Python Codes in Code Folder_
 
-### Classroom GitHub - https://github.com/JayakumarClassroom
 
-### Personal GitHub - https://github.com/iamjayakumars
+
+ <br /> <br /> <br /> <br />
+
+### Prof. Jayakuamr Sadhasivam
+
+#### Classroom GitHub - https://github.com/JayakumarClassroom
+
+#### Personal GitHub - https://github.com/iamjayakumars
