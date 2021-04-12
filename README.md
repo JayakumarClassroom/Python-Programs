@@ -1,7 +1,7 @@
-# Python Programs for Practice
+# PHP Programs for Practice
 
  <br /> <br />
-## _Python Codes in Code Folder_
+## _PHP Codes in Code Folder_
 
 
 
